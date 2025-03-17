@@ -20,6 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <DashboardWrapper>{children}</DashboardWrapper>
+        <Analytics />
       </body>
     </html>
   );
