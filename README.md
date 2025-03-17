@@ -1,6 +1,6 @@
 # Fullstack Inventory Management Dashboard
 
-A full-stack inventory management dashboard built using the latest web technologies and AWS services. The application allows businesses to manage their inventory effectively, keeping track of products, quantities, and other key metrics.
+A full-stack inventory management dashboard built using React and AWS services. Allows users to manage their inventory effectively, keeping track of products, quantities, and other key metrics.
 
 ## Tech Stack
 
